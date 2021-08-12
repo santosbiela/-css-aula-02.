@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en"
+<head>
+    <meta charset="utf-8"
+    <meta name="viewport"
+             content="width=device-width, user-scalable=no, init-scale=1.maximu-scale=1.0>
+           <meta http-equiv="X-UA-Compatible" content="ie=edge">
+           <title> Pseudo classes</title>
+           <link href="https://diaspora.black/produto/petropolis/" rel"stylesheet">
+
+           <style>
+          link:link {
+              color:blackgreen;
+          }
+
+          /* link  visitado*/
+          link:visted {
+              color:bronw;
+          }
+         /* mouse por cima*/
+         link:hover {
+             color: yellow;
+ 
+         }
+
+         /* no click*/
+         link: active  {
+             color:blue
+
+         }
+           </style>
+<head>
+<body>
+<a href="https://diaspora.black/produto/petropolis/" class="my link"> My Link<a>
+
+</body>
+</html>
